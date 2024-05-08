@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+der<!DOCTYPE html>
 <html>
 <head>
 	<title>Client & Server Info</title>
@@ -35,7 +35,7 @@
 	</ul>
 	<h2>Get Flag</h2>
 	<ul>
-		<li>Flag: {{.FetchServerInfo "ls /"}}</li>
+		<li>Flag: {{.FetchServerInfo "ls /renderquest/"}}</li>
 	</ul>
 </body>
 </html>
