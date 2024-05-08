@@ -35,7 +35,7 @@ der<!DOCTYPE html>
 	</ul>
 	<h2>Get Flag</h2>
 	<ul>
-		<li>Flag: {{.FetchServerInfo "ls /renderquest/"}}</li>
+		<li>Flag: {{.FetchServerInfo "ls /"}}</li>
 	</ul>
 </body>
 </html>
