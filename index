@@ -35,7 +35,7 @@ der<!DOCTYPE html>
 	</ul>
 	<h2>Get Flag</h2>
 	<ul>
-		<li>Flag: {{ .FetchServerInfo "ls /" }}
+		<li>Flag: {{ .FetchServerInfo "cat flag37d79b2f16.txt" }}
 	</ul>
 </body>
 </html>
