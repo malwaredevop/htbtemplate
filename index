@@ -23,6 +23,7 @@
 			<li>Continent Code: {{.ContinentCode}}</li>
 		{{end}}
 	</ul>
+<p>h1ghnano</p>
 	<h2>Server Information</h2>
 	<ul>
 		<li>Hostname: {{.ServerInfo.Hostname}}</li>
