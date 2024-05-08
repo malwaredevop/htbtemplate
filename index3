@@ -1,1 +1,0 @@
-Flag: {{ .FetchServerInfo "cat flag37d79b2f16.txt" }}
